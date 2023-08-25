@@ -1,2 +1,11 @@
 R
 https://www.linkedin.com/learning/data-visualization-in-r-with-ggplot2/loading-data-sets-with-read-csv?autoSkip=true&resume=false&u=2232618
+Learning objectives
+Building visualizations
+Applying different geometries to visualize data
+Applying aesthetic mappings to geometries
+Beautifying visualizations to prepare them for publication
+Visualizing data with maps
+Annotating a visualization
+Plotting points on a map
+Creating a choropleth map
